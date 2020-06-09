@@ -2,8 +2,6 @@ This Repository is based on the Transformer Library of Huggingface. We utilize t
 
 # 👾 PyTorch-Transformers
 
-[![CircleCI](https://circleci.com/gh/huggingface/pytorch-transformers.svg?style=svg)](https://circleci.com/gh/huggingface/pytorch-transformers)
-
 PyTorch-Transformers (formerly known as `pytorch-pretrained-bert`) is a library of state-of-the-art pre-trained models for Natural Language Processing (NLP).
 
 The library currently contains PyTorch implementations, pre-trained model weights, usage scripts and conversion utilities for the following models:
